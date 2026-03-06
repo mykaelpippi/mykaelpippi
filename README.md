@@ -5,6 +5,6 @@
 
 Meu nome é Mykael Pippi
 
-Santa Maria, rs
+*Santa Maria, rs
 
-téc. info - UFSM
+*téc. info - UFSM
