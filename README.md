@@ -10,3 +10,4 @@
 * téc. info - UFSM
 
 ![texto alternativo](https://www.ufsm.br/app/uploads/sites/343/2023/05/Politecnico-Logo.jpg)
+
